@@ -1,4 +1,5 @@
 public class Solution {
+
     /**
      * @param nums: the given array
      * @param k: the given number
