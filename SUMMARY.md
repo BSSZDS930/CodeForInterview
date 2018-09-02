@@ -1,6 +1,8 @@
 ## MyBook
 * [Introduction](README.md)
 * 面试准备
+    * [JVM相关](/docs/jvm.md) 
+        * [`java`对象生命周期](/docs/jvm/objecttime.md) 
     * [JDK有关](/docs/jdk.md) 
         * [多线程有关](/docs/jdk/multithread.md) 
     * [数据库相关](/docs/DataBase.md) 
