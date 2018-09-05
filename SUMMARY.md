@@ -28,6 +28,7 @@
         * [按值传递，按引用传递](/docs/jdk/Q12.md)
         * [线程池](/docs/jdk/Q13.md)
         * [`String` 和 `StringBuilder`](/docs/jdk/Q14.md)
+        * [匿名类](/docs/jdk/Q15.md)
     * [数据库相关](/docs/DataBase.md) 
         * [索引](/docs/database/index.md)
         * [事务](/docs/database/transaction.md)
@@ -92,6 +93,8 @@
         * [一个有序数组，求能用这个数组能组成度二叉搜索树的个数](/docs/array/Q10.md)
         * [两个有序数组，找出他们的中位数](/docs/array/Q11.md)
         * [有序数组被旋转过后求最小点](/docs/array/Q12.md)
+        * [一个无序数组里面怎么查找出现次数大于数组长度一半的数](/docs/array/Q13.md)
+        * [移动字符串](/docs/array/Q14.md)
     * [树](/docs/tree.md)
     
         * [两个节点的最近公共父节点](/docs/tree/Q1.md)
@@ -123,4 +126,5 @@
         * [防爬虫系统的实现](/docs/total/Q3.md)
         * [`16`个球队中随机选`2`个，在大量选取后，越强的队越容易被选中](/docs/total/Q4.md)
         * [知道多线程吧。用过`CountDownLatch`吗？来写个程序，算`1！+2！+3！+4！+5！`，用`CountDownLatch`来做](/docs/total/Q5.md)
+        * [问`43`亿大的文件里顺序存储`32`位的整数，怎么查找出现次数大于`2`的数](/docs/total/Q6.md)
 
