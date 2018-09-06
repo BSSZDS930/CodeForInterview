@@ -12,6 +12,7 @@
         * [垃圾回收算法](docs/jvm/solutions.md)
         * [类加载机制](docs/jvm/classload.md)
         * [`Integer i=1`发生了什么](docs/jvm/Q1.md)
+        * [`Java`的四种引用](docs/jvm/Q2.md)
     * [`JDK`有关](/docs/jdk.md) 
         * [多线程有关](/docs/jdk/multithread.md) 
         * [`synchronized`和`reentrantLock`的区别](/docs/jdk/Q1.md)
@@ -29,6 +30,9 @@
         * [线程池](/docs/jdk/Q13.md)
         * [`String` 和 `StringBuilder`](/docs/jdk/Q14.md)
         * [匿名类](/docs/jdk/Q15.md)
+        * [静态方法怎么调用非静态方法](/docs/jdk/Q16.md)
+        * [怎么自定义`String`类型](/docs/jdk/Q17.md)
+        * [`Object`类下面的方法](/docs/jdk/Q18.md)
     * [数据库相关](/docs/DataBase.md) 
         * [索引](/docs/database/index.md)
         * [事务](/docs/database/transaction.md)
@@ -63,6 +67,10 @@
         * [进程的通信方式](/docs/os/Q7.md)
         * [`CPU`的执行方式](/docs/os/Q8.md)
         * [缓存更新的算法](/docs/os/Q9.md)
+        * [虚拟内存](/docs/os/Q10.md)
+        * [信号量`PV`原语](/docs/os/Q11.md)
+        * [`Linux`内存结构](/docs/os/Q12.md)
+        * [僵尸进程和孤儿进程](/docs/os/Q13.md)
     * [中间件相关](/docs/middle.md)
         * [`Redis`的一些问题](/docs/middle/redis.md) 
         * [`cap`为什么只能`3`选`2`](/docs/middle/Q1.md)
@@ -70,6 +78,7 @@
         * [负载均衡](/docs/middle/Q3.md)
         * [`MQ`相关](/docs/middle/mq.md)
         * [一致性`hash`](/docs/middle/hash.md)
+        * [`hadoop`相关](/docs/middle/hadoop.md)
         
     * [网络相关](/docs/network.md)
         * [`DNS`解析域名过程](/docs/network/dns.md)
@@ -81,6 +90,7 @@
         * [怎么查看占用了端口号的程序的可执行文件的位置](/docs/network/Q1.md)
         * [`nio`与`bio`的区别](/docs/network/Q2.md)
         * [`http`状态码](/docs/network/Q3.md)
+        * [常用的端口号](/docs/network/Q4.md)
 * 面试代码
     * [多线程](/docs/multithread.md)
         * [线程池](/docs/multithread/threadpool.md) 
@@ -107,6 +117,9 @@
         * [连续子数组最大的和](/docs/array/Q17.md)
         * [旋转数组](/docs/array/Q18.md)
         * [无序数组中找出连续的数中第一个缺失的数字](/docs/array/Q19.md)
+        * [迪杰斯特拉算法](/docs/array/Q20.md)
+        * [`1`到`N`的所有数字，按照字典序打印，怎么做](/docs/array/Q21.md)
+        * [无序数组求中位数](/docs/array/Q22.md)
     * [树](/docs/tree.md)
     
         * [两个节点的最近公共父节点](/docs/tree/Q1.md)
@@ -121,6 +134,8 @@
         * [大数相加](/docs/string/Q1.md)
         * [判断括号匹配](/docs/string/Q2.md)
         * [最长公共字串](/docs/string/Q3.md)
+        * [找出所有可能的IP地址组合，比如`192168111`](/docs/string/Q4.md)
+        * [寻找字符串中最大回文子串](/docs/string/Q5.md)
     * [栈和队列](/docs/stackandqueue.md)
         * 
     * [链表问题](/docs/linkedlist.md)
@@ -150,6 +165,10 @@
         * [`10g`文件，只有`2g`内存，怎么查找文件中指定的字符串出现位置](/docs/total/Q9.md)
         * [`100w`个数，怎么找到前`1000`个最大的](/docs/total/Q10.md)
         * [十亿个数的集合和`10w`个数的集合，如何求它们的交集](/docs/total/Q11.md)
+        * 
+        * 数据很大内存放不下怎么办
+设计一个系统，很多日志文件，要求实时读取，速度快且可靠
+有100万台服务器，读取他们的数据信息，怎么保证中央服务器不当机
 
 
 
