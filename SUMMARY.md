@@ -33,6 +33,8 @@
         * [静态方法怎么调用非静态方法](/docs/jdk/Q16.md)
         * [怎么自定义`String`类型](/docs/jdk/Q17.md)
         * [`Object`类下面的方法](/docs/jdk/Q18.md)
+        * [接口和抽象类的区别](/docs/jdk/Q19.md)
+
     * [数据库相关](/docs/DataBase.md) 
         * [索引](/docs/database/index.md)
         * [事务](/docs/database/transaction.md)
