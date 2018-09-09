@@ -17,7 +17,7 @@
     * 加锁：`gap lock、record lock、next-key lock`
     * 一致性锁定读：
         * `select .... for update. ` 写锁
-        * `select .... lock in share mode.` 读锁
+        * `select .... lock in share mode` 读锁
 
 * **原子性和持久性**的实现
     * `redo log `称为重做日志；
