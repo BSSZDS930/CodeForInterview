@@ -45,6 +45,7 @@
         * [数据库三大范式](/docs/database/fansi.md)
         * [连接](/docs/database/connect.md)
         * [`SQL`编译的过程](/docs/database/Q1.md)
+        * [崩溃恢复过程](/docs/database/Q2.md)
     * [`Spring`](/docs/Spring.md) 
         * [事务](/docs/Spring/transaction.md)
         * [`Spring`特点](/docs/Spring/different.md)
