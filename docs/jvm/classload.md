@@ -80,6 +80,12 @@
         *  当虚拟机启动时，初始使用静态`main`的那个类会先初始化
         *  动态语言支持时：如果`java.lang.invoke.MethodHandle`实例最后解析的结果是`REF_getStatic、REF_putStatic、REF_invokeStatic`的方法句柄，且对应类没有初始化
     * 使用
+        * 栈帧
+            * 局部变量表
+            * 操作数栈
+            * 动态连接
+            * 方法返回地址 
+        *  
     * 卸载
 
 
