@@ -39,5 +39,11 @@
     * **硬件**对于并发操作的支持 
     * 内存值`V`、预估值`A`、更新值`B`
     * 提供了很多支持原子操作的类：`AtomicInteger`
-*  
+*  `threadLocal`
+    *  在当前线程中保存的变量副本
+    *  实际的通过`ThreadLocal`创建的副本是存储在每个线程自己的`threadLocals`中的
+    
+    *  继承自`WeakReference`：当`ThreadLocal`不再被引用时，因为弱引用机制原因，当`jvm`发现内存不足时，会自动回收弱引用指向的实例内存
+    
+    *  键值为当前`ThreadLocal`变量，`value`为变量副本
 
