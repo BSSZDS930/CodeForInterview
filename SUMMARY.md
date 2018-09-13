@@ -162,6 +162,8 @@
         * [二进制中`1`的个数](/docs/offer/Q5.md)
         * [树的子结构](/docs/offer/Q6.md)
         * [顺时针打印矩阵](/docs/offer/Q7.md)
+        * [包含`min`函数的栈](/docs/offer/Q8.md)
+        * [栈的压入、弹出序列](/docs/offer/Q9.md)
     * [图] (/docs/map.md)
         *  [朋友之间的点对点关系用图维护，怎么判断两人是否是朋友，并查集，时间复杂度](/docs/map/Q1.md) 
     * [综合](docs/total.md)
