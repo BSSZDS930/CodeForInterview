@@ -164,6 +164,15 @@
         * [顺时针打印矩阵](/docs/offer/Q7.md)
         * [包含`min`函数的栈](/docs/offer/Q8.md)
         * [栈的压入、弹出序列](/docs/offer/Q9.md)
+        * [复杂链表的复制](/docs/offer/Q10.md)
+        * [二叉树转化为双向链表](/docs/offer/Q11.md)
+        * [字符串的排列](/docs/offer/Q12.md)
+        * [最小的`k`个数](/docs/offer/Q13.md)
+        * [连续子数组的最大和](/docs/offer/Q14.md)
+        * [从`1`到`n`整数中`1`出现的次数](/docs/offer/Q15.md)
+        * [把数组排序成最小的数](/docs/offer/Q16.md)
+        * [丑数](/docs/offer/Q17.md)
+        * [数组中的逆序对](/docs/offer/Q18.md)
     * [图] (/docs/map.md)
         *  [朋友之间的点对点关系用图维护，怎么判断两人是否是朋友，并查集，时间复杂度](/docs/map/Q1.md) 
     * [综合](docs/total.md)
@@ -180,6 +189,7 @@
         * [`100w`个数，怎么找到前`1000`个最大的](/docs/total/Q10.md)
         * [十亿个数的集合和`10w`个数的集合，如何求它们的交集](/docs/total/Q11.md)
         * [数据很大内存放不下怎么办](/docs/total/Q12.md)
+        * [头条面试](/docs/total/Q13.md)
 
 
 
