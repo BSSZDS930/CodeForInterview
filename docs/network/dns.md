@@ -9,4 +9,8 @@
         * 生成一个`DNS`查询报文，将字符串`www.baidu.com`放入报文的问题段中
     * 准备：域内路由选择到`DNS`服务器
     * 交互：`TCP`和`HTTP`
+        * 生成`TCP` 套接字
+        
+        * 向`www.baidu.com`发送`HTTP GET`报文
+        * 
 
