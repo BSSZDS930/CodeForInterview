@@ -46,4 +46,5 @@
     *  继承自`WeakReference`：当`ThreadLocal`不再被引用时，因为弱引用机制原因，当`jvm`发现内存不足时，会自动回收弱引用指向的实例内存
     
     *  键值为当前`ThreadLocal`变量，`value`为变量副本
+    *  请求调用链中信息存储 
 
