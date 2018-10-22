@@ -99,7 +99,7 @@
 * 面试代码
     * [多线程](/docs/multithread.md)
         * [线程池](/docs/multithread/threadpool.md) 
-    * 
+    * [笔试模板](/docs/writtenexamination.md)
     
 * 算法
     * [数组](/docs/array.md)
