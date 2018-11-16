@@ -4,6 +4,8 @@
     * [`Tomcat`相关](/docs/tomcat.md)
         * [`Web`项目的启动过程](/docs/Tomcat/webStart.md)
         * [`Tomcat`的架构](/docs/Tomcat/tomcatSystem.md)
+        * [`nginx`的原理](/docs/Tomcat/nginx.md)
+        * [为什么要用`nginx + Tomcat`](/docs/Tomcat/nginx&tomcat.md)
         
     * [`JVM`相关](/docs/jvm.md) 
         * [`java`对象生命周期](/docs/jvm/objecttime.md) 
