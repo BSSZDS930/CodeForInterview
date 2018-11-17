@@ -33,7 +33,17 @@
     * 代理类模块 
         * 这些模块主要与后端一些服务比如`FastCGI`等进行交互，实现服务代理和负载均衡等功能
 * 对于**请求**的处理
-    * 
-* 
 
+    * 运行**模式**：多进程`+`异步非阻塞`IO`事件
+        * `master`通过`nginx.conf`文件进行配置、`worker`进行连接和请求的**处理**
+    
+        ![](https://lh3.googleusercontent.com/-XKa5xihqMqg/W-7HBDA10PI/AAAAAAAAAB0/Pb3dCnypq78wQrlLgjqAZEInI9h3jryLgCHMYCw/I/15423751701401.jpg)
+
+    * **热部署**实现
+        * 修改配置文件`nginx.conf`后，重新生成新的`worker`进程，当然会以新的配置进行处理请求，而且新的请求必须都交给新的`worker`进程，至于老的`worker`进程，等把那些以前的请求处理完毕后，`kill`掉即可
+    * **高并发**处理
+        * `epoll`模型
+    * **高可用**实现
+        * 虚拟`ip` 
+* 为什么要用`nginx + Tomcat`：保证同一个域名下可以进行多个`Tomcat`实例的部署
 
