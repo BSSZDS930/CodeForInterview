@@ -205,4 +205,9 @@
 * [秋招总结](/docs/review/reviewforAutumnRecruit.md)
 * [春招总结](/docs/review/reviewforSpringRecruit.md)
 * [总结](/docs/review/reviewRecruit.md)
+* 书籍阅读
+    * [`Spring`源码深度解析](/docs/)
+    * [深入理解`Java`虚拟机](/docs/) 
+    * [`Redis`设计与实现](/docs/) 
+
 
