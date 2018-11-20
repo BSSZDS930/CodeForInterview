@@ -209,6 +209,6 @@
     * [`Spring`源码深度解析](/docs/)
     * [深入理解`Java`虚拟机](/docs/) 
     * [`Redis`设计与实现](/docs/)
-    * [高性能`MySQL`](/docs/) 
+    * [高性能`MySQL`](/docs/mysql) 
 
 
