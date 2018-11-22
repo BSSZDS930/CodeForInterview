@@ -207,7 +207,7 @@
 * [总结](/docs/review/reviewRecruit.md)
 * 书籍阅读
     * [`Spring`源码深度解析](/docs/)
-    * [深入理解`Java`虚拟机](/docs/) 
+    * [深入理解`Java`虚拟机](/docs/jvm) 
     * [`Redis`设计与实现](/docs/redis)
     * [高性能`MySQL`](/docs/mysql) 
 
