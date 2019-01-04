@@ -4,13 +4,13 @@
 
   * Q1：武汉直达北海
 
-    ![image-20190104214324379](/Users/outlier/Desktop/CodeForInterview/docs/other/media/image-20190104214324379-6609404.png)
+    ![image-20190104214324379](./media/image-20190104214324379-6609404.png)
 
   * Q2：武汉到南宁（`1.16`:）
 
     * 机票数目预计合适的就[两趟航班](https://flights.ctrip.com/itinerary/oneway/wuh-nng?date=2019-01-16)，这里选择一个性价比略高的，价格`420`
 
-      ![image-20190104133527926](/Users/outlier/Desktop/CodeForInterview/docs/other/media/image-20190104133527926-6580127.png)
+      ![image-20190104133527926](./media/image-20190104133527926-6580127.png)
 
     * `22.35`到南宁**吴圩**国际机场，机场`5`公里内的酒店基本都有**接送服务**暂时可以不用考虑滴滴，这个**讨论**一下
 
@@ -18,7 +18,7 @@
 
       * [瑞嘉便捷酒店(T2航站楼店)](https://hotel.meituan.com/150012198/?ci=2019-01-16&co=2019-01-17#comment)
 
-        ![image-20190104145034826](/Users/outlier/Desktop/CodeForInterview/docs/other/media/image-20190104145034826-6584634.png)
+        ![image-20190104145034826](./media/image-20190104145034826-6584634.png)
 
         * 槽点比较少，`4.9`分，目前**预计的**入住
         * `90/人`
@@ -35,7 +35,7 @@
 
     * [动车票](http://trains.ctrip.com/TrainBooking/Search.aspx?from=nanning&to=beihai&day=2019-01-17&number=&fromCn=%25E5%258D%2597%25E5%25AE%2581&toCn=%25E5%258C%2597%25E6%25B5%25B7&trainstype=gaotie-dongche)价格`58`：这里南宁站基本没有合适的票，建议早点去，保险一点
 
-      ![image-20190104175817047](/Users/outlier/Desktop/CodeForInterview/docs/other/media/image-20190104175817047-6595897.png)
+      ![image-20190104175817047](./media/image-20190104175817047-6595897.png)
 
 * 北海，后续部分多参考**知乎高票**回答、马蜂窝，如果直飞北海都可**向前**一天
 
@@ -45,7 +45,7 @@
 
   * 出行图
 
-    ![image-20190104200418756](/Users/outlier/Desktop/CodeForInterview/docs/other/media/image-20190104200418756-6603458.png)
+    ![image-20190104200418756](./media/image-20190104200418756-6603458.png)
 
   * 预计行程（`1.16`中午到北海福成机场（`1`号点），`530`左右，纪念品另算？）
 
@@ -85,7 +85,7 @@
 
   * 路线：
 
-    ![image-20190104212320740](/Users/outlier/Desktop/CodeForInterview/docs/other/media/image-20190104212320740-6608200.png)
+    ![image-20190104212320740](./media/image-20190104212320740-6608200.png)
 
     * 石螺口系列（`1.19下午到`）
 
@@ -103,7 +103,7 @@
 
     * 五彩滩起点（ `1.21` 骑电驴耗时大致如左）
 
-      ![image-20190104212021641](/Users/outlier/Desktop/CodeForInterview/docs/other/media/image-20190104212021641-6608021.png)
+      ![image-20190104212021641](./media/image-20190104212021641-6608021.png)
 
       * 早上起来[五彩滩](http://www.mafengwo.cn/poi/5423924.html)（`1`号点）看一下日出
       * 然后去[天主教堂](http://www.mafengwo.cn/poi/5423932.html)（`2`号点）
@@ -127,7 +127,7 @@
 
   * 北海到武汉（`1.22`）
 
-    ![image-20190104191621840](/Users/outlier/Desktop/CodeForInterview/docs/other/media/image-20190104191621840-6600581.png)
+    ![image-20190104191621840](./media/image-20190104191621840-6600581.png)
 
   * 在上面路线了北海到南宁到武汉`638`
 
